@@ -31,9 +31,21 @@
 /* +----------------------------------------------------------------------+ */
 /****************************************************************************/
 
+/**
+* The main class of the HotIndex project
+*
+* This is the first class of the HotIndex project. Used to get all the stuff
+* started :D
+*
+* @author   F.J.K. Nijhof
+* @package  nl.frenck
+*/
+
+class HotIndex
+{
 
 
 
-
+}
 
 ?>

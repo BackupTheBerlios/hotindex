@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule !\.(gif|css|jpg|png|zip|exe|class|jar|gz) /home/httpd/vhosts/frenck.nl/httpdocs/HotIndex/index.php
