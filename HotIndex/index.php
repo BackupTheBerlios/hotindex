@@ -31,9 +31,8 @@
 /* +----------------------------------------------------------------------+ */
 /****************************************************************************/
 
-
-
-
-
+//this file is just used to start the whole thing
+include("./nl/frenck/hotindex.class.php");
+$hotindex = new HotIndex();
 
 ?>
